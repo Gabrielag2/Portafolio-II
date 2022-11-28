@@ -66,7 +66,13 @@ Por ejemplo, en un formulario de registro realizando diferentes acciones:
 _Explica que verifican estas pruebas y por qué_
 
 ```
-Da un ejemplo
+esta actividad dentro del proceso del desarrollo del softwarele indica al desarrollador que debe:
+* Desarrollar y documentar las unidades de software así como las bases de datos.
+* Comprobar que las unidades y base de datos satisfacen los requerimientos (aquí se deben documentar los resultados)
+* Actualizar la documentación del usuario si es requerido.
+* Actualizar los requerimientos de prueba y planes para la integración del software
+* Evaluar la codificación del software y los resultados de las pruebas
+
 ```
 
 ## Despliegue 📦
