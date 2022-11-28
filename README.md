@@ -1,12 +1,11 @@
 # My House
 
-_MyHouse es una plataforma que ofrezce a nuestros clientes la capacidad de realizar y gestionar sus compras de manera online, siendo un intermediario entre los veedores y el cliente final, proveyendo seguridad, consistencia e integridad en la generación de los servicios y productos brindados a nuestros clientes._
+_MyHouse es una plataforma que ofrece a nuestros clientes la capacidad de realizar y gestionar sus compras de manera online, siendo un intermediario entre los veedores y el cliente final, proveyendo seguridad, consistencia e integridad en la generación de los servicios y productos brindados a nuestros clientes._
 
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
 ``` 
 1- Tener buena capacidad de almacenamiento.
 2-  Obtener el link del repositorio de github para clonar el repositorio
@@ -38,8 +37,6 @@ _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener 
 * Presiona F5 para iniciar la depuración o en la barra del menú precionar ejecutar y porteriormente iniciar depuración.
 
 ```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 ## Ejecutando las pruebas ⚙️
 
