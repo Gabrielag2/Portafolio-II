@@ -117,7 +117,6 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 * **Gabriela Aguilar** - * **Amilcar López** -  * **Liliana Bonilla** -  * **Luis Blanco**
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
