@@ -42,7 +42,7 @@ _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
 ¿Cómo se hacen las pruebas automatizadas?
 Las pruebas automatizadas consisten en la aplicación de herramientas de software para automatizar el proceso manual de revisión y validación de un producto de software que lleva a cabo una persona.
-Existen diferentes herraminetas como : Selenium, protactor, appium entre otras
+la herramineta mas utilizada para ejecutar pruebas automotizadas es Selenium que es compatible con la mayoría de los navegadores web y sistemas operativo.
 
 
 
