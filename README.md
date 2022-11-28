@@ -53,12 +53,12 @@ _ pruebas de extremo a extremo, también conocidas como pruebas E2E, son una met
 ```
 Por ejemplo, en un formulario de registro realizando diferentes acciones: 
 
-Ingrese su nombre.
-Ingrese su apellido.
-Ingrese un correo electrónico válido.
-Ingrese una contraseña válida.
-Ingrese su número telefónico (si es requerido)
-Clic en un botón de registro.
+* Ingrese su nombre.
+* Ingrese su apellido.
+* Ingrese un correo electrónico válido.
+* Ingrese una contraseña válida.
+* Ingrese su número telefónico (si es requerido)
+* Clic en un botón de registro.
 ```
 
 ### Y las pruebas de estilo de codificación ⌨️
