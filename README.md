@@ -50,12 +50,14 @@ _Explica como ejecutar las pruebas automatizadas para este sistema_
 _ pruebas de extremo a extremo, también conocidas como pruebas E2E, son una metodología utilizada para garantizar que las aplicaciones se comporten como se espera y que se mantenga el flujo de datos para todo tipo de tareas y procesos del usuario._
 
 ```
-Por ejemplo, en un formulario de registro, puedes esperar que un usuario realice una o más de estas acciones:
+Por ejemplo, en un formulario de registro realizando diferentes acciones: 
 
-Ingrese un correo electrónico y una contraseña en blanco.
-Introduzca un correo electrónico y una contraseña válida.
-Introduzca un correo electrónico y una contraseña no válida.
-Hará clic en un botón de registro.
+Ingrese su nombre.
+Ingrese su apellido.
+Ingrese un correo electrónico válido.
+Ingrese una contraseña válida.
+Ingrese su número telefónico (si es requerido)
+Clic en un botón de registro.
 ```
 
 ### Y las pruebas de estilo de codificación ⌨️
