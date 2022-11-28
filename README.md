@@ -68,11 +68,19 @@ _Explica que verifican estas pruebas y por qué_
 ```
 esta actividad dentro del proceso del desarrollo del softwarele indica al desarrollador que debe:
 * Desarrollar y documentar las unidades de software así como las bases de datos.
-* Comprobar que las unidades y base de datos satisfacen los requerimientos (aquí se deben documentar los resultados)
+* Comprobar que las unidades y base de datos satisfacen los requerimientos (aquí se deben documentar los resultados).
 * Actualizar la documentación del usuario si es requerido.
-* Actualizar los requerimientos de prueba y planes para la integración del software
-* Evaluar la codificación del software y los resultados de las pruebas
+* Actualizar los requerimientos de prueba y planes para la integración del software.
+* Evaluar la codificación del software y los resultados de las pruebas.
 
+Las pruebas se deben documentar en base a:
+* Trazabilidad de los requerimientos y el diseño.
+* Consistencia entre los requerimientos y el diseño.
+* Consistencia interna entre los requerimientos de las unidades. 
+* Cobertura de de las pruebas de las unidades.
+* Adecuancion de los metodos de los metodos de codificacion y las normas usadas.
+* Viabilidad de la integracipoón del software y de las pruebas.
+* Viabilidad delas operaciones y el mantenimiento.
 ```
 
 ## Despliegue 📦
