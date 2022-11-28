@@ -1,6 +1,6 @@
 # My House
 
-_MyHouse es una plataforma que ofrezca a nuestros clientes la capacidad de realizar y gestionar sus compras de manera online, siendo un intermediario entre los veedores y el cliente final, proveyendo seguridad, consistencia e integridad en la generación de los servicios y productos brindados a nuestros clientes._
+_MyHouse es una plataforma que ofrezce a nuestros clientes la capacidad de realizar y gestionar sus compras de manera online, siendo un intermediario entre los veedores y el cliente final, proveyendo seguridad, consistencia e integridad en la generación de los servicios y productos brindados a nuestros clientes._
 
 ## Comenzando 🚀
 
@@ -22,6 +22,7 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 1- Visual Studio Code:
 2- Laravel:
 3- Java:
+4- composer:
 4- Base de datos: 
 ```
 
@@ -46,10 +47,15 @@ _Explica como ejecutar las pruebas automatizadas para este sistema_
 
 ### Analice las pruebas end-to-end 🔩
 
-_Explica que verifican estas pruebas y por qué_
+_ pruebas de extremo a extremo, también conocidas como pruebas E2E, son una metodología utilizada para garantizar que las aplicaciones se comporten como se espera y que se mantenga el flujo de datos para todo tipo de tareas y procesos del usuario._
 
 ```
-Da un ejemplo
+Por ejemplo, en un formulario de registro, puedes esperar que un usuario realice una o más de estas acciones:
+
+Ingrese un correo electrónico y una contraseña en blanco.
+Introduzca un correo electrónico y una contraseña válida.
+Introduzca un correo electrónico y una contraseña no válida.
+Hará clic en un botón de registro.
 ```
 
 ### Y las pruebas de estilo de codificación ⌨️
@@ -88,8 +94,6 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
 ## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Gabriela Aguilar** - * **Amilcar López** -  * **Liliana Bonilla** -  * **Luis Blanco**
 
