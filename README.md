@@ -88,11 +88,11 @@ Las pruebas se deben documentar en base a:
 
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+```
+Consiste en subir los servicios con la nueva versión del código. Así, la versión antigua es totalmente reemplazada.
+```
 
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * HTML
 * PHP
