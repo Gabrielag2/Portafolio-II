@@ -7,9 +7,9 @@ _MyHouse es una plataforma que ofrece a nuestros clientes la capacidad de realiz
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 ``` 
-1- Tener buena capacidad de almacenamiento.
-2-  Obtener el link del repositorio de github para clonar el repositorio
-3- Acceso a Visual Studio Code 
+* Tener buena capacidad de almacenamiento.
+*  Obtener el link del repositorio de github para clonar el repositorio
+* Acceso a Visual Studio Code 
 ```
 
 
@@ -18,11 +18,10 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
-1- Visual Studio Code:
-2- Laravel:
-3- Java:
-4- composer:
-4- Base de datos: 
+* Visual Studio Code:
+* Laravel:
+* Java:
+* Base de datos: 
 ```
 
 ### Instalación 🔧
@@ -33,7 +32,7 @@ _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener 
 ```
 * descargar el archivo de github y descomprimir
 * Inicie visual Code y abra el archivo descargado
-*Abra su base de datos para tener acceso a los datos almacenados.
+* Abra su base de datos para tener acceso a los datos almacenados.
 * Presiona F5 para iniciar la depuración o en la barra del menú precionar ejecutar y porteriormente iniciar depuración.
 
 ```
@@ -41,6 +40,11 @@ _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener 
 ## Ejecutando las pruebas ⚙️
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
+¿Cómo se hacen las pruebas automatizadas?
+Las pruebas automatizadas consisten en la aplicación de herramientas de software para automatizar el proceso manual de revisión y validación de un producto de software que lleva a cabo una persona.
+Existen diferentes herraminetas como : Selenium, protactor, appium entre otras
+
+
 
 ### Analice las pruebas end-to-end 🔩
 
